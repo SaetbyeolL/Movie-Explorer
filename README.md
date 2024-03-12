@@ -1,2 +1,2 @@
 # Movie-Explorer
-Movie-Explorer
+Languages: React.js
